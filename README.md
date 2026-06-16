@@ -1,11 +1,11 @@
 <!-- ====================== HEADER BANNER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Henry%20Nguyen&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Fullstack%20Engineer%20%C2%B7%208%2B%20years%20building%20web%20%26%20mobile&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Henry%20Nguyen&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Fullstack%20Engineer%20%C2%B7%207%2B%20years%20building%20web%20%26%20mobile&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/phuochung">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;Full-cycle+web+%26+mobile+applications;React+%7C+Node.js+%7C+Java+%7C+Python;Building+mobility+%26+car-sharing+platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;Full-cycle+web+%26+mobile+applications;Node.js+%7C+NestJS+%7C+React+%7C+Angular;Building+mobility+%26+car-sharing+platforms" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,23 +23,26 @@
 
 ```typescript
 const henry = {
-  name: "Hung Nguyen",
+  name: "Nguyen Phuoc Hung",
   alias: "Henry",
   role: "Senior Fullstack Engineer",
-  experience: "8+ years",
+  location: "Da Nang, Vietnam (Remote)",
+  experience: "7+ years",
   focus: ["Web Apps", "Mobile Apps", "Scalable APIs", "Mobility / Car-Sharing"],
   stack: {
-    languages: ["JavaScript", "TypeScript", "Java", "Python"],
-    frontend:  ["React", "Next.js", "React Native"],
-    backend:   ["Node.js", "NestJS", "Spring Boot"],
-    cloud:     ["AWS", "Docker", "CI/CD"],
+    languages: ["JavaScript", "TypeScript"],
+    frontend:  ["React", "Next.js", "Angular", "Ionic"],
+    backend:   ["Node.js", "Express", "NestJS"],
+    cloud:     ["Google Cloud (Cloud Run, Cloud Build)", "Docker", "CI/CD"],
+    databases: ["MySQL", "MongoDB"],
   },
   motto: "Design it well, ship it fast, scale it right.",
 };
 ```
 
 - 🔭 I design, build, and deploy **full-cycle web & mobile applications** end to end.
-- 🚗 Currently focused on **mobility & car-sharing** products.
+- 🚗 Currently at **GoCar Malaysia** (remote), building **mobility & car-sharing** products.
+- 🤖 Co-developed **GollyCRM** — an AI-powered CRM chatbot (OpenAI + Gemini), live and used by **4 companies** across Malaysia.
 - 🌱 Always sharpening **system design**, **cloud architecture**, and **clean code**.
 - 💬 Ask me about **fullstack architecture, APIs, and shipping production apps**.
 
@@ -50,42 +53,37 @@ const henry = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI / Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 <!-- ====================== GITHUB STATS ====================== -->
@@ -99,10 +97,6 @@ const henry = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=phuochung&hide_border=true&theme=tokyonight" alt="streak stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=phuochung&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 
 </div>
 
