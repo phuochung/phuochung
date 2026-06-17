@@ -5,11 +5,11 @@
 
 # `Hung Nguyen`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=55&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;7%2B+years+shipping+web+%26+mobile;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Angular;Building+mobility+%26+car-sharing" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=55&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;8%2B+years+shipping+web+%26+mobile;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Angular;Building+mobility+%26+car-sharing" alt="What I do" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Experience-7%2B_years-06B6D4?style=flat-square&labelColor=0D1117" alt="experience" />
+<img src="https://img.shields.io/badge/Experience-8%2B_years-06B6D4?style=flat-square&labelColor=0D1117" alt="experience" />
 <img src="https://img.shields.io/badge/Based_in-Da_Nang,_VN-6366F1?style=flat-square&labelColor=0D1117" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Remote_roles-06B6D4?style=flat-square&labelColor=0D1117" alt="open to remote" />
 
@@ -28,7 +28,7 @@ const henry = {
   alias: "Henry",
   role: "Senior Fullstack Engineer",
   location: "Da Nang, Vietnam (Remote)",
-  experience: "7+ years",
+  experience: "8+ years",
   focus: ["Web Apps", "Mobile Apps", "Scalable APIs"],
   stack: {
     languages: ["JavaScript", "TypeScript"],
