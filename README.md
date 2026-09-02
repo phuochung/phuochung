@@ -76,7 +76,7 @@ Production fixes flow back upstream — that round trip is the point.
 ## ❯ ./connect.sh
 
 - 💼 &nbsp;**Hiring?** — [linkedin.com/in/hungnp26](https://www.linkedin.com/in/hungnp26)
-- 📄 &nbsp;**CV** — [download PDF](https://github.com/phuochung/phuochung/raw/master/cv/NguyenPhuocHung_CV.pdf)
+- 📄 &nbsp;**CV** — [view PDF](https://github.com/phuochung/phuochung/blob/master/cv/NguyenPhuocHung_CV.pdf)
 - 📧 &nbsp;**Email** — [hungnplab@gmail.com](mailto:hungnplab@gmail.com)
 - 📱 &nbsp;**WhatsApp** — [+84 934 980 804](https://wa.me/84934980804)
 - 🕐 &nbsp;**UTC+7** — comfortable overlap with EU mornings & US evenings.
