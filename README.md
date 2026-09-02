@@ -5,13 +5,15 @@
 
 # `Hung Nguyen`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=55&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;8%2B+years+shipping+web+%26+mobile;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Angular;Building+mobility+%26+car-sharing" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=55&lines=Senior+Fullstack+Engineer+%F0%9F%9A%80;8%2B+years+shipping+web+%26+mobile;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Angular;Building+mobility+%C2%B7+commerce+%C2%B7+healthcare" alt="What I do" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Experience-8%2B_years-06B6D4?style=flat-square&labelColor=0D1117" alt="experience" />
 <img src="https://img.shields.io/badge/Based_in-Da_Nang,_VN-6366F1?style=flat-square&labelColor=0D1117" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Remote_roles-06B6D4?style=flat-square&labelColor=0D1117" alt="open to remote" />
+
+**I take products from spec to production on Google Cloud — and keep them running.**
 
 </div>
 
@@ -24,100 +26,47 @@
 
 ```typescript
 const henry = {
-  name: "Hung Nguyen",
-  alias: "Henry",
+  name: "Hung Nguyen (Henry)",
   role: "Senior Fullstack Engineer",
-  location: "Da Nang, Vietnam (Remote)",
+  location: "Da Nang, Vietnam · remote · UTC+7",
   experience: "8+ years",
-  focus: ["Web Apps", "Mobile Apps", "Scalable APIs"],
-  stack: {
-    languages: ["JavaScript", "TypeScript"],
-    frontend:  ["React", "Next.js", "Angular", "Ionic"],
-    backend:   ["Node.js", "Express", "NestJS"],
-    cloud:     ["Google Cloud (Cloud Run, Cloud Build)", "Docker", "CI/CD"],
-    databases: ["MySQL", "MongoDB"],
-  },
-  motto: "Design it well, ship it fast, scale it right.",
+  stack: ["TypeScript", "NestJS", "Express.js", "Next.js", "Angular", "Ionic",
+          "MongoDB", "MySQL", "GCP (Cloud Run · Cloud Build)"],
+  ai: "LLM features in production — OpenAI · Gemini · Claude",
 };
 ```
 
-- 🔭 &nbsp;I design, build, and deploy **full-cycle web & mobile applications** end to end.
-- 🚗 &nbsp;Currently at **GoCar Malaysia** (remote), building **mobility & car-sharing** products.
-- 🌱 &nbsp;Always sharpening **system design**, **cloud architecture**, and **clean code**.
-- 💬 &nbsp;Ask me about **fullstack architecture, APIs, and shipping production apps**.
+- 🚗 &nbsp;Currently at **GoCar Malaysia** (remote) — mobility & car-sharing at national scale.
+- 🛠 &nbsp;On the side I design, build, deploy, and **operate** full products for real businesses.
 
 ---
 
 <!-- ============================================================ -->
-<!--                  F E A T U R E D   W O R K                   -->
+<!--                 H I G H L I G H T   W O R K                  -->
 <!-- ============================================================ -->
-## ❯ ls ~/work
+## ❯ ls ~/projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Real systems, in production. Code is client/employer-private — the **case studies
+document the architecture and the decisions**. Click through if a row hooks you.
 
-### 🚗 &nbsp;GoCar Sharing Platform
-A **high-traffic car-sharing** booking platform handling peak weekend & holiday load. I own delivery end to end across **API · web · mobile** on **Google Cloud**.
-
-`NestJS` &nbsp;`Angular` &nbsp;`Ionic` &nbsp;`MySQL` &nbsp;`Cloud Run`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 &nbsp;AI Integration
-Comfortable building chatbot & assistant features and wiring **LLM APIs** into production web/mobile products and internal workflows.
-
-`OpenAI` &nbsp;`Google Gemini` &nbsp;`Claude` &nbsp;`Node.js`
-
-</td>
-</tr>
-</table>
+| | Project | What it is | Deep dive |
+|---|---|---|---|
+| 🚗 | **GoCar Sharing** · [gocar.my](https://www.gocar.my) | National car-sharing platform — peak weekend & holiday load. I own delivery end to end across **API · web · mobile** on GCP. `NestJS` `Angular` `Ionic` `MySQL` | [Overview →](https://github.com/phuochung/case-studies) |
+| 🤖 | **Golly** | CRM with an **AI chat front door** — LLM capture & qualification feeding a sales pipeline, measured by an analytics loop. `Gemini` `OpenAI` `NestJS` | [Overview →](https://github.com/phuochung/case-studies) |
+| 🧁 | **TBNT Bakery** · [tiembanhnhatrung.com](https://tiembanhnhatrung.com) | Commerce for a bakery whose real checkout is **Facebook Messenger** — storefront + back office around messaging, not instead of it. `NestJS` `MongoDB` `Next.js ×2` | [**Case study →**](https://github.com/phuochung/case-studies/tree/master/tbnt) |
+| 🩺 | **YKGD Clinic** · [ykhoagiadinhhoian.vn](https://ykhoagiadinhhoian.vn) | Home-visit healthcare — the **doctor travels, not the patient**. Scheduling, encounters, records; 7 roles, one codebase. `NestJS` `Next.js` `MongoDB` | [Overview →](https://github.com/phuochung/case-studies) |
 
 ---
 
 <!-- ============================================================ -->
-<!--                     T E C H   S T A C K                      -->
+<!--                    O P E N   S O U R C E                     -->
 <!-- ============================================================ -->
-## ❯ cat stack.json
+## ❯ cat open-source.md
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031)
-![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=flat-square&logo=ionic&logoColor=3880FF)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-
-**Cloud & DevOps**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-
-**AI / Tools**
-
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Jira](https://img.shields.io/badge/Jira-0D1117?style=flat-square&logo=jira&logoColor=2684FF)
+**[claude-code-fullstack-base](https://github.com/phuochung/claude-code-fullstack-base)** —
+the NestJS + Next.js workspace TBNT and YKGD were forked from, open-sourced and
+**wired for Claude Code**: setup is agent-executable tickets, not a stale guide.
+Production fixes flow back upstream — that round trip is the point.
 
 ---
 
@@ -126,10 +75,11 @@ Comfortable building chatbot & assistant features and wiring **LLM APIs** into p
 <!-- ============================================================ -->
 ## ❯ ./connect.sh
 
+- 💼 &nbsp;**Hiring?** — [linkedin.com/in/hungnp26](https://www.linkedin.com/in/hungnp26)
 - 📧 &nbsp;**Email** — [hungnplab@gmail.com](mailto:hungnplab@gmail.com)
-- 💼 &nbsp;**LinkedIn** — [linkedin.com/in/hungnp26](https://www.linkedin.com/in/hungnp26)
 - 📱 &nbsp;**WhatsApp** — [+84 934 980 804](https://wa.me/84934980804)
-- 📍 &nbsp;**Location** — Da Nang, Vietnam · open to remote
+- 🕐 &nbsp;**UTC+7** — comfortable overlap with EU mornings & US evenings.
+- 🚀 &nbsp;**Need something built?** — I take products from idea to production in weeks. Email me with one paragraph about the problem.
 
 <div align="center">
 <br/>
