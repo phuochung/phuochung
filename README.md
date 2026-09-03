@@ -30,8 +30,8 @@ const henry = {
   role: "Senior Fullstack Engineer",
   location: "Da Nang, Vietnam · remote · UTC+7",
   experience: "8+ years",
-  stack: ["TypeScript", "NestJS", "Express.js", "Next.js", "Angular", "Ionic",
-          "MongoDB", "MySQL", "GCP (Cloud Run · Cloud Build)"],
+  stack: ["TypeScript", "NestJS", "Express.js", "Next.js", "React Native",
+          "Angular", "Ionic", "MongoDB", "MySQL", "GCP (Cloud Run · Cloud Build)"],
   ai: "LLM features in production — OpenAI · Gemini · Claude",
 };
 ```
@@ -54,7 +54,7 @@ document the architecture and the decisions**. Click through if a row hooks you.
 | 🚗 | **GoCar Sharing** · [gocar.my](https://www.gocar.my) | National car-sharing platform — peak weekend & holiday load. I own delivery end to end across **API · web · mobile** on GCP. `NestJS` `Angular` `Ionic` `MySQL` | [Overview →](https://github.com/phuochung/case-studies) |
 | 🤖 | **Golly** | CRM with an **AI chat front door** — LLM capture & qualification feeding a sales pipeline, measured by an analytics loop. `Gemini` `OpenAI` `NestJS` | [Overview →](https://github.com/phuochung/case-studies) |
 | 🧁 | **TBNT Bakery** · [tiembanhnhatrung.com](https://tiembanhnhatrung.com) | Commerce for a bakery whose real checkout is **Facebook Messenger** — storefront + back office around messaging, not instead of it. `NestJS` `MongoDB` `Next.js ×2` | [**Case study →**](https://github.com/phuochung/case-studies/tree/master/tbnt) |
-| 🩺 | **YKGD Clinic** · [ykhoagiadinhhoian.vn](https://ykhoagiadinhhoian.vn) | Home-visit healthcare — the **doctor travels, not the patient**. Scheduling, encounters, records; 7 roles, one codebase. `NestJS` `Next.js` `MongoDB` | [Overview →](https://github.com/phuochung/case-studies) |
+| 🩺 | **YKGD Clinic** · [ykhoagiadinhhoian.vn](https://ykhoagiadinhhoian.vn) | Home-visit healthcare — the **doctor travels, not the patient**. Scheduling, encounters, records; 7 roles, one auth model. `NestJS` `Next.js` `MongoDB` | [**Case study →**](https://github.com/phuochung/case-studies/tree/master/ykgd) |
 
 ---
 
