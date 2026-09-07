@@ -1,0 +1,8 @@
+# Private study notes — NEVER push these (they may reference employer code).
+notes-private/
+
+# Nested working copies (each has its own remote)
+claude-code-fullstack-base/
+case-studies/
+
+.DS_Store

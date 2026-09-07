@@ -36,7 +36,7 @@ const henry = {
 };
 ```
 
-- 🚗 &nbsp;Currently at **GoCar Malaysia** (remote) — mobility & car-sharing at national scale.
+- 🚗 &nbsp;Currently at **GoCar Malaysia** (remote) — Senior Fullstack Engineer on its car-sharing platform.
 - 🛠 &nbsp;On the side I design, build, deploy, and **operate** full products for real businesses.
 
 ---
@@ -47,12 +47,12 @@ const henry = {
 ## ❯ ls ~/projects
 
 Real systems, in production. Code is client/employer-private — the **case studies
-document the architecture and the decisions**. Click through if a row hooks you.
+document the architecture and the decisions**; employer work is stated exactly as on
+my CV. Click through if a row hooks you.
 
 | | Project | What it is | Deep dive |
 |---|---|---|---|
-| 🚗 | **GoCar Sharing** · [gocar.my](https://www.gocar.my) | National car-sharing platform — peak weekend & holiday load. I own delivery end to end across **API · web · mobile** on GCP. `NestJS` `Angular` `Ionic` `MySQL` | [Overview →](https://github.com/phuochung/case-studies) |
-| 🤖 | **Golly** | CRM with an **AI chat front door** — LLM capture & qualification feeding a sales pipeline, measured by an analytics loop. `Gemini` `OpenAI` `NestJS` | [Overview →](https://github.com/phuochung/case-studies) |
+| 🚗 | **GoCar Malaysia** · [gocar.my](https://www.gocar.my) | Car-sharing platform — a **high-traffic booking system with peak load on weekends & public holidays**. Senior Fullstack Engineer (remote, since Jul 2021): I own delivery end to end, from design through **solo production deployment** on GCP (Cloud Run · Cloud Build), across backend · web · mobile in a 5-person team. Co-developed **GollyCRM**, an AI-powered CRM chatbot (OpenAI + Gemini) live in production and used by 4 companies across Malaysia. `Node.js` `Express` `NestJS` `MySQL` `MongoDB` `Angular` `Next.js` `Ionic` `Docker` | [**CV →**](https://github.com/phuochung/phuochung/blob/master/cv/NguyenPhuocHung_CV.pdf) |
 | 🧁 | **TBNT Bakery** · [tiembanhnhatrung.com](https://tiembanhnhatrung.com) | Commerce for a bakery whose real checkout is **Facebook Messenger** — storefront + back office around messaging, not instead of it. `NestJS` `MongoDB` `Next.js ×2` | [**Case study →**](https://github.com/phuochung/case-studies/tree/master/tbnt) |
 | 🩺 | **YKGD Clinic** · [ykhoagiadinhhoian.vn](https://ykhoagiadinhhoian.vn) | Home-visit healthcare — the **doctor travels, not the patient**. Scheduling, encounters, records; 7 roles, one auth model. `NestJS` `Next.js` `MongoDB` | [**Case study →**](https://github.com/phuochung/case-studies/tree/master/ykgd) |
 
